@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>My Example</title>
-    </head>
-    <body></body>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>My Example</title>
+</head>
+<body>
+</body>
 </html>
