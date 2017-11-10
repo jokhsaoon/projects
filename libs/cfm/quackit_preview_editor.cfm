@@ -1,2 +1,2 @@
 <!DOCTYPE html>
-<title>My Example</title> 
+<title>My-Example</title> 
