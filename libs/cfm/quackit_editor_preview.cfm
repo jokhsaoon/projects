@@ -1,2 +1,7 @@
 <!DOCTYPE html>
-<title>My Example</title>
+<html>
+    <head>
+        <title>My Example</title>
+    </head>
+    <body></body>
+</html>
